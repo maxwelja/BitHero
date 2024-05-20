@@ -1,7 +1,7 @@
 # BitHero
 Phaser 3 - Basic 2D Player Controller Platformer Prototype
 
-## This project is designed to showcase very simplistic 2D player controls using the Phaser 3 JavaScript Library
+### This project is designed to showcase very simplistic 2D player controls using the Phaser 3 JavaScript Library
 
 ### I wrote this project in a game jam format to see how quickly I could learn a new tech tool to build a basic character controller in less than 10 hours
 
