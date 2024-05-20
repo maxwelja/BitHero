@@ -15,11 +15,11 @@ Phaser 3 - Basic 2D Player Controller Platformer Prototype
 5) Open a browser and navigate to "localhost:8080" to launch the prototype
 
 ## Gameplay Mechanics/Controls
-[Left Arrow] and [Right Arrow] to move
-[Up Arrow] to jump (hold longer for higher jump)
-[Shift] key to run while moving
-[Down Arrow] + [Shift] to dash
-While jumping, [Down Arrow] to fast fall
+- [Left Arrow] and [Right Arrow] to move
+- [Up Arrow] to jump (hold longer for higher jump)
+- [Shift] key to run while moving
+- [Down Arrow] + [Shift] to dash
+- While jumping, [Down Arrow] to fast fall
 
 ## Notes:
 - Many collectibles and other character sprites will spawn in
